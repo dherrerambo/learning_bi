@@ -1,1 +1,2 @@
-# Curso de Inteligencia de Negocios
+# Curso de Business Inteligence (BI)
+
